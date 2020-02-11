@@ -1,6 +1,5 @@
 import sys
 import datetime
-import lorem
 
 import logging
 import logging.config

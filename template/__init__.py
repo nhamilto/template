@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-
-"""Top-level package for Template Repo."""
+"""Top-level package for template repository."""
 
 __author__ = """Nicholas Hamilton"""
 __email__ = 'nicholas.hamilton@nrel.gov'
